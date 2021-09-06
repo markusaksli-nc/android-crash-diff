@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "486685679562",
+    "firebase_url": "https://triage-79c7c.firebaseio.com",
+    "project_id": "triage-79c7c",
+    "storage_bucket": "triage-79c7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486685679562:android:fef7dd150c321109197933",
+        "android_client_info": {
+          "package_name": "com.nevercode.triage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486685679562-9k8n1l7dl504h5egr0bq22opcjhonkbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3qh0MMC2y5eZnAHd_GZbbEcdbO013iwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486685679562-9k8n1l7dl504h5egr0bq22opcjhonkbl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "486685679562-esdomcfae26i7shq1rs4v389v2vkaq8t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nevercode.triage"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
